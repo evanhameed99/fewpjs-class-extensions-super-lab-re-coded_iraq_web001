@@ -18,6 +18,6 @@ class Deciduous {
   }
 
   static definition (){
-    return this.super += 'Deciduous trees shed their leaves annually.'
+    return this.super + 'Deciduous trees shed their leaves annually.'
   }
 }
